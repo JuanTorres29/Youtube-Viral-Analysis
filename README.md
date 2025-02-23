@@ -47,11 +47,10 @@ Este proyecto analiza los factores clave que contribuyen a la viralidad de video
 ## 📂 Estructura del Proyecto
 ```
 📦 youtube-viral-analysis
- ├── 📁 data            # Datos crudos y procesados
+ ├── 📁 data_videos            # Datos procesados
  ├── 📁 notebooks       # Notebooks de Jupyter
- ├── 📁 src             # Scripts de Python
  ├── 📄 README.md       # Documentación del proyecto
- └── 📄 Informe.pdf     # Informe completo del análisis
+ └── 📄 informe.pdf     # Informe completo del análisis
 ```
 
 ## 📧 Autores
